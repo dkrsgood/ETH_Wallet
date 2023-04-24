@@ -44,14 +44,14 @@
 
 ### 2. 账户创建界面
 
-![账户创建界面](./image/create.png)
+![账户创建界面](Wallet/image/create.png)
 ### 3. 账户创建成功界面
 
-![账户创建成功界面](./image/success.png)
+![账户创建成功界面](Wallet/image/success.png)
 
 ### 4. 账户详情和交易界面
 
-![账户详情和交易界面](./image/detail.png)
+![账户详情和交易界面](Wallet/image/detail.png)
 
 
 
