@@ -40,7 +40,7 @@
 
 ### 1. 登录界面
 
-![登录界面](./image/login.png)
+![登录界面](Wallet/image/login.png)
 
 ### 2. 账户创建界面
 
